@@ -1,8 +1,8 @@
-- Hai, saya @ewaldofikriy
-- Saya tertarik dengan Lua, css, python, Javascript, HTML
-- Saya sedang belajar Lua
-- ️ Saya ingin berkolaborasi? Belum tahu, karena saya pemula di github
-- Bagaimana cara menghubungi saya? Dengan mengirim pesan ke Gmail narcoticsanonymo@gmail.com
+- Hi, I'm @ewaldofikriy
+- I'm interested in Lua, css, python, Javascript, HTML
+- I'm learning Lua, Html, Css, Python
+- ️I want to collaborate? Don't know yet, because I'm a beginner on github
+- How to contact me? By sending a message to Gmail halijawatirasyid@gmail.com
 
 <!---
 ewaldofikriy/ewaldofikriy adalah repositori khusus karena `README.md` (file ini) muncul di profil GitHub Anda.
